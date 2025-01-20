@@ -1,0 +1,89 @@
+body {
+    background-color: hsl(17, 93%, 47%)
+}
+
+
+
+
+.Container {
+    width: 380px;
+    height: 550px;
+    background-color: white;
+    text-align: center;
+    margin-left: 30%;
+    margin-top: 5%;
+
+
+}
+
+.fname {
+    width: 140px;
+    height: 25px;
+    margin-top: 22px;
+    border: 1px solid orange;
+
+
+}
+
+.fnm {
+    display: flex;
+    margin-left: 33px;
+    margin-top: 22px;
+
+}
+
+.lname {
+    width: 120px;
+    height: 25px;
+    margin-top: 22px;
+    border: 1px solid orange;
+
+
+}
+
+.input .inpt {
+    height: 25px;
+    width: 300px;
+    border: 1px solid orange;
+    margin-top: 22px;
+
+}
+
+.input input[type=file] {
+    height: 27px;
+    width: 300px;
+}
+
+
+.input i {
+    padding: 6px;
+    border: 1px solid orange;
+    width: 17px;
+    height: 16px;
+    margin-top: 26px;
+
+}
+
+.gender {
+    margin-top: 22px;
+    font-size: 25px;
+    margin-right: 110px;
+}
+
+button {
+    height: 33px;
+    width: 340px;
+    cursor: pointer;
+    border: 1.2 solid black;
+    background-color: orange;
+    font-size: 20px;
+    margin-top: 25px;
+}
+
+button:hover {
+    background-color: green;
+}
+
+.Container h1 {
+    padding: 18px;
+}
